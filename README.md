@@ -1,4 +1,3 @@
-# self_organizing_map
 # Credit Card Applications Fraud Detection
 
 This project involves the use of a Self-Organizing Map (SOM) for the detection of fraud in credit card applications. SOM is an artificial neural network used for clustering data and visualization. In this project, we use SOM to analyze credit card applications and identify applications that may indicate fraud.
